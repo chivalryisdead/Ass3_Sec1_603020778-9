@@ -1,0 +1,17 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="807" y="382" />
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="571" y="177" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="495" y="252" />
+    <location key="SettingsEditor.0.0.1600.900" x="286" y="71" />
+    <location key="run.anything.popup.0.0.1600.900" x="456" y="190" />
+    <location key="#PSD.0.0.1600.900" x="317" y="161" />
+    <location key="AndroidProcessChooserDialog.0.0.1600.900" x="655" y="194" />
+    <location key="#app.0.0.1600.900" x="566" y="76" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1600.900" x="530" y="176" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="1340" height="200" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="1340" height="200" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="1340" height="200" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="1340" height="200" />
+  </component>
+</application>
